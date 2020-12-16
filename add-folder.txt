@@ -1,0 +1,7 @@
+push a folder
+
+git init
+git remote add origin git_link
+git add -A
+git commit -m "name"
+git push origin master
